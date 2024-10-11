@@ -18,4 +18,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=safiya2610&show_icons=true&locale=en&layout=compact" alt="safiya2610" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safiya2610&" alt="safiya2610" /></p>
