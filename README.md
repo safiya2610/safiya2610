@@ -3,8 +3,6 @@
 <img align="right" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 - 🌱 I’m currently learning **App Development(React Native), Web Development**
 
-- 👨‍💻 Portfolio [https://rb.gy/pw0wot](https://rb.gy/pw0wot)
-
 - 📝 I write articles on [https://medium.com/@ecelliiitl/the-rise-and-fall-of-doodhwala-9fae721fec16](https://medium.com/@ecelliiitl/the-rise-and-fall-of-doodhwala-9fae721fec16)
 
 - 📫 How to reach me **hellosafiya6@gmail.com**
