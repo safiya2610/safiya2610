@@ -30,16 +30,8 @@
   <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="120" />
 </p>
 
-<h3 align="center">🔥 GitHub Stats</h3>
+<img src="https://raw.githubusercontent.com/safiya2610/safiya2610/output/snake.svg" alt="Snake animation" />
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=safiya2610&theme=tokyonight&border_radius=10" height="160"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=safiya2610&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
+###
 
 
