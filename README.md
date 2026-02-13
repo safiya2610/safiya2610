@@ -24,10 +24,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="120" />
-  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="120" />
-  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="120" />
-  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="120" />
+  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="90" />
+  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="90" />
+  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="90" />
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="90" />
 </p>
 
 
