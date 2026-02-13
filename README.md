@@ -16,8 +16,5 @@
 
 <h3 align="left">GitHub Contribution Graph:</h3>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=safiya2610&theme=react-dark" />
-</p>
 
 
