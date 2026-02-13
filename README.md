@@ -22,7 +22,6 @@
     🔗 View My GitHub Achievements
   </a>
 </p>
-<h3 align="center">🏆 GitHub Achievements</h3>
 
 <p align="center">
   <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="120" />
