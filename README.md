@@ -30,9 +30,7 @@
   <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="120" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/safiya2610/safiya2610/output/snake.svg" />
-</p>
+
 
 ###
 
