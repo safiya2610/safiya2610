@@ -30,12 +30,16 @@
   <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="120" />
 </p>
 
-
+<h3 align="center">🔥 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=safiya2610&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  
-  <img src="https://github-profile-trophy.vercel.app?username=safiya2610&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=safiya2610&theme=tokyonight&border_radius=10" height="160"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=safiya2610&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
 
 
