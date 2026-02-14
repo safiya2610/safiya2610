@@ -30,8 +30,11 @@
   <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="90" />
 </p>
 
-
-
+<h3 align="center">GitHub Commits</h3>
+<p align="center">
+  <img width="1122" height="267" alt="Screenshot (2035)" src="https://github.com/user-attachments/assets/0a6cc1ff-be75-4651-96fe-e8b564c17bda" />
+  <img width="1123" height="236" alt="Screenshot (2036)" src="https://github.com/user-attachments/assets/b42670ec-421c-4714-8e8a-e373603acbb0" />
+</p>
 ###
 
 
