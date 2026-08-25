@@ -2,7 +2,7 @@
 
 # Hi, I'm Safiya Nasir
 
-### Full-Stack Developer | AI Enthusiast
+### Full-Stack Developer | AI Enthusiast | DevOps
 
 <i>Always learning, always building, and always striving to become a better engineer than I was yesterday.</i>
 
