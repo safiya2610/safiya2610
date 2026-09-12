@@ -15,6 +15,7 @@
 ---
 
 # 💻 Tech Stack
+<img width="527" height="359" alt="Screenshot (4312)" src="https://github.com/user-attachments/assets/918c82cc-98d4-4aad-aaf8-a00b1a846e87" />
 
 <p align="center">
 
