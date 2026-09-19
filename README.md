@@ -17,6 +17,7 @@
 
 ## 2025
 <img width="569" height="154" alt="Screenshot (4334)" src="https://github.com/user-attachments/assets/e3fc927d-8c98-42d3-8827-fa018b2e8efa" />
+---
 ## 2026
 <img width="568" height="152" alt="Screenshot (4332)" src="https://github.com/user-attachments/assets/13078dc6-6273-40aa-b404-ab0b7db0b382" />
 
